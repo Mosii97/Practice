@@ -1,0 +1,17 @@
+body {
+    background: #2c3e50;
+    padding:100px;
+
+}
+
+div {
+    margin:50px auto;
+	background: #34495e;
+    width:400px;
+    height:180px;
+    border-radius:15px;
+    color:#ecf0f1;
+    text-align:center;
+    line-height:180px;
+    font-size:80px
+}
